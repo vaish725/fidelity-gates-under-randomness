@@ -44,7 +44,7 @@ python data.py     # generate the datasets (written to datasets/)
 - [x] Gridworld with tunable randomness, plus tests
 - [x] Oracle (exact replay of the true outcome distribution)
 - [x] Behaviour policy and recorded data
-- [ ] World models: one correct, plus planted errors (structural and calibration)
+- [x] World models: one correct, plus planted errors (structural and calibration)
 - [ ] Single-reference gate (PROWL-2-style) and an oracle gate as the upper bound
 - [ ] Sweep over `p`, thresholds and seeds: false-alarm rate, catch rate, AUROC, practice shift
 - [ ] Plots, write-up and limitations
